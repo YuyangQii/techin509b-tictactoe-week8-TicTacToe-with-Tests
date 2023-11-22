@@ -19,9 +19,7 @@ class TestTicTacToe(unittest.TestCase):
         self.assertIn(self.game.players[1].symbol, ['X', 'O'])
         self.assertNotEqual(self.game.players[0].symbol, self.game.players[1].symbol)
 
-
     def test_draw_condition(self):
-        # Simulate a draw condition
         self.board.board = [['X', 'O', 'X'], ['X', 'X', 'O'], ['O', 'X', 'O']]
         self.assertIsNone(self.board.get_winner())
         self.assertTrue(self.board.is_full())
