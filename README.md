@@ -1,1 +1,2 @@
-# techin509b-tictactoe-week8-TicTacToe-with-Tests
+# techin509b-tictactoe
+Code for the Tic Tac Toe assignments
