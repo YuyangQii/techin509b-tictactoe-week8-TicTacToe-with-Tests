@@ -4,7 +4,7 @@ This repository contains the Tic Tac Toe game code for the "techin509b" course.
 
 ## About the Project
 
-This project is a simple Tic Tac Toe game designed to demonstrate basic Python programming skills and the implementation of unit tests. The game allows two players to take turns placing their marks (X or O) on a 3x3 grid, aiming to align three of their marks in a row.
+This project is a simple Tic Tac Toe game. The game allows two players to take turns placing their marks (X or O) on a 3x3 grid, aiming to align three of their marks in a row.
 
 ## Getting Started
 
