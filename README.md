@@ -1,6 +1,6 @@
 # techin509b-tictactoe
 
-This repository contains the Tic Tac Toe game code for the techin509b course.
+This repository contains the Tic Tac Toe game code for the "techin509b" course.
 
 ## About the Project
 
@@ -14,4 +14,5 @@ This project is a simple Tic Tac Toe game designed to demonstrate basic Python p
 
 ## Running the Tests
 
-- Execute `python tests.py` to run the unit tests.
+ Execute `python tests.py` to run the unit tests.
+
